@@ -1724,3 +1724,15 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2518.581678 seconds.
+  path: Assets/MAP.asset
+  artifactKey: Guid(ce1b93571dc781006a06df50cb8d767a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MAP.asset using Guid(ce1b93571dc781006a06df50cb8d767a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '207c238cbd05e013f752c924da1e095c') in 2.172966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.150165 seconds.
+  path: Assets/Capsule.prefab
+  artifactKey: Guid(d1d0986cc02a45b47b92e2368464f713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Capsule.prefab using Guid(d1d0986cc02a45b47b92e2368464f713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e5b2f22b277f833fe40ad9cedb562e') in 0.646047 seconds 
