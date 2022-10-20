@@ -160,3 +160,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 16760.612787 seconds.
+  path: Assets/NewLayer.terrainlayer
+  artifactKey: Guid(2ecf213d6273e254f9a52a0cc07f73d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer.terrainlayer using Guid(2ecf213d6273e254f9a52a0cc07f73d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48ad6b0e4bc5942c45e2d73cb8f7d6d5') in 1.768560 seconds 
